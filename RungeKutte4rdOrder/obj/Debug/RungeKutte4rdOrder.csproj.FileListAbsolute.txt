@@ -1,0 +1,102 @@
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.AssemblyReference.cache
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.g.cs
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.g.cs
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.cache
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.lref
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe.config
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.pdb
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.dll
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.WPF.dll
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Drawing.Common.dll
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.xml
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.baml
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.baml
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.g.resources
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.Properties.Resources.resources
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.GenerateResource.cache
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CoreCompileInputs.cache
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CopyComplete
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\source\Repos\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.pdb
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe.config
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.pdb
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.dll
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.WPF.dll
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Drawing.Common.dll
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.xml
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.AssemblyReference.cache
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.g.cs
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.g.cs
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.cache
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.lref
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.baml
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.baml
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.g.resources
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.Properties.Resources.resources
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.GenerateResource.cache
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CoreCompileInputs.cache
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.exe
+C:\Users\МихайловДА\Downloads\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe.config
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.dll
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.WPF.dll
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Drawing.Common.dll
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\ScottPlot.xml
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.cache
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.lref
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\App.baml
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\MainWindow.baml
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.g.resources
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.Properties.Resources.resources
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.GenerateResource.cache
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CopyComplete
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\OneDrive\Рабочий стол\RungeKutte4rdOrder\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe.config
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\RungeKutte4rdOrder.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\ScottPlot.dll
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\ScottPlot.WPF.dll
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\System.Drawing.Common.dll
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\ScottPlot.xml
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\MainWindow.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\App.g.cs
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.cache
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder_MarkupCompile.lref
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\App.baml
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\MainWindow.baml
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.g.resources
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.Properties.Resources.resources
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.GenerateResource.cache
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.csproj.CopyComplete
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.exe
+C:\Users\zenit\OneDrive\Рабочий стол\2\RungeKutte4rdOrder\obj\Debug\RungeKutte4rdOrder.pdb

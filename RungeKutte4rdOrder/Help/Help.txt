@@ -1,0 +1,14 @@
+Usage Calculator:
+Enter number Equation:
+Trigonometry - sin(x), cos(x)
+Дробь - x/n, where n - this is number which x are divided
+Sqrt - sqrt(x,n), where n -  this is number which sqrt need
+Pow - x^n,  where n -  this is number, which  degree of number
+-----------------------------------------------------------
+Enter Equation should through space
+Enter dot can through ';'
+Brakets don't enter
+h - step of iteration - how many steps
+n - max number of itteration 
+f(x0;y0) - point x0 and point y0
+Example: 2y - x^2 + 1

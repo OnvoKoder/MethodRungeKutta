@@ -1,0 +1,45 @@
+﻿<Window x:Class="RungeKutte4rdOrder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RungeKutte4rdOrder"
+        mc:Ignorable="d"
+        Title="Solution of the differential equation of the 2-rd order by method Runge Kutta 4-rd order" MaxWidth="1000" MinHeight="450" MinWidth="425">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.7*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.ColumnSpan="2" Grid.RowSpan="2" Panel.ZIndex="-1" Style="{StaticResource PartWindow}"/>
+        <StackPanel>
+            <TextBlock Text="Equation"/>
+            <TextBox Name="txtEquation"/>
+            <WrapPanel>
+                <TextBlock Text="f(x0;y0)"/>
+                <TextBox Name="txtPoint" MaxLength="5" Style="{StaticResource ForPoint}" PreviewTextInput="PreviewInputText"/>
+                <TextBlock Text="h"/>
+                <TextBox Name="txtStep" MaxLength="3" Style="{StaticResource ForPoint}" PreviewTextInput="PreviewInputText"/>
+                <TextBlock Text="n"/>
+                <TextBox Name="txtQuantity" MaxLength="2" Style="{StaticResource ForPoint}" PreviewTextInput="PreviewInputText"/>
+                <TextBlock Text="y'"/>
+                <TextBox Name="txtZ" MaxLength="2" Style="{StaticResource ForPoint}" PreviewTextInput="PreviewInputText"/>
+            </WrapPanel>
+            <StackPanel>
+                <WrapPanel>
+                    <Button Name="btnHelper" Content="Help" Click="GetHelp"/>
+                    <Button Name="btnSearch" Content="Solve" Click="GetSearch"/>
+                </WrapPanel>
+            </StackPanel>
+        </StackPanel>
+        <WpfPlot Visibility="Hidden" Name="Chart" Grid.Row="1"/>
+        <StackPanel Grid.Column="1" Grid.RowSpan="2">
+            <TextBlock Text="Result"/>
+            <ListBox Name="lbResult"/>
+        </StackPanel>
+    </Grid>
+</Window>
